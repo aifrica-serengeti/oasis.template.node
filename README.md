@@ -1,4 +1,4 @@
-# 61a0b22a-a6ff-4956-b5e9-52f119849615
+# oasis.template.node
 
 
 
